@@ -1,3 +1,3 @@
 # demo
 This is first repository
-Author: Sarvagya 
+Author: Sarvagya Singh 
